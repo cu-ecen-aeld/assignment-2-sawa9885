@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# This file was fully generated with assistance from OpenAI Codex.
+# Full chat session:
+# https://chatgpt.com/s/cx_6a965f26077c8191b911ddb06c0ef746
+
 if [ "$#" -lt 2 ]; then
     echo "Error: filesdir and searchstr must be specified" >&2
     exit 1

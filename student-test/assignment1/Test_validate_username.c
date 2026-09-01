@@ -12,6 +12,12 @@
 *   3) Use unity assertion TEST_ASSERT_EQUAL_STRING_MESSAGE to verify the two strings are equal.  See
 *       the [unity assertion reference](https://github.com/ThrowTheSwitch/Unity/blob/master/docs/UnityAssertionsReference.md)
 */
+
+/*
+ * This function was worked on with assistance from OpenAI Codex.
+ * Full chat session:
+ * https://chatgpt.com/s/cx_6a965f26077c8191b911ddb06c0ef746
+ */
 void test_validate_my_username()
 {
     TEST_ASSERT_EQUAL_STRING_MESSAGE(
